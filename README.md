@@ -21,12 +21,3 @@ I am a second-year engineering student based in Punjab, India, focused on buildi
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" title="VS Code" />
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyamgoel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="Priyam's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamgoel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="Top Languages" />
-</p>
