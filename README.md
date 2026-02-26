@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Debugging champion in progress
 ------------------------------
 
-A first year student pursuing a Bachelor of Engineering at Thapar Institute of Engineering and Technology.
+A second year student pursuing a Bachelor of Engineering at Thapar Institute of Engineering and Technology.
 
 * 🌍  I'm based in Punjab, India
 * ✉️  You can contact me at [priyamgoel36@gmail.com](mailto:priyamgoel36@gmail.com)
